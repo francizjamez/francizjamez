@@ -1,14 +1,12 @@
-# Francis James Dela Cruz
-I am a full-stack web developer, based out of Cagayan De Oro, Philippines. I am adept at Reactjs, node, mongodb, express aka MERN, but also can easily adapt to any tech.
 
+“Intellectual growth should commence at birth and cease only at death.”
 
-## EXPERIENCE
-- Full-stack Web Developer 
-  - Freelance — Remote
-  - July 2021 - PRESENT
-  - Frontend Tech: ReactJS, HTML, CSS
-  - Backend Tech: ExpressJS, NodeJS, MongoDB, Firebase
-  - My work involves building websites and web apps for clients from different parts of the world.
+― Albert Einstein
+
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> - Captain Janeway
+
+Thanks for visiting my profile, my name is Francis, I am a full-stack web developer, based out of Cagayan De Oro, Philippines. I am adept at Reactjs, node, mongodb, express collectively known as the MERN stack, but also can easily adapt to any tech.
 
 
 ## PROJECTS
