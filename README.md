@@ -7,7 +7,9 @@ Thanks for visiting my github, my name is Francis, I am a full-stack web develop
 ## PROJECTS
 
 ### Devhut: Social Media Website 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Devhut](https://github.com/francizjamez/francizjamez/blob/f1caeaeecbfdbc5657b95ecbca74d5878af78d3e/devhut.png)
+
 - Tech stacks: ReactJS, Chakra UI, Redux (Context API), ExpressJS, MongoDB, REST API 
 - Website for developers to share their thoughts and follow other developers
 - I built it from scratch including authentication, and used JWT for authorization 
