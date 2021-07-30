@@ -1,12 +1,12 @@
 > “Intellectual growth should commence at birth and cease only at death.”
-> Albert Einstein
+> - Albert Einstein
 
-Thanks for visiting my profile, my name is Francis, I am a full-stack web developer, based out of Cagayan De Oro, Philippines. I am adept at Reactjs, node, mongodb, express collectively known as the MERN stack, but also can easily adapt to any tech.
+Thanks for visiting my github, my name is Francis, I am a full-stack web developer, based out of Cagayan De Oro, Philippines. I am adept at Reactjs, node, mongodb, express collectively known as the MERN stack, but also can easily adapt to any tech.
 
 
 ## PROJECTS
 
-### Devlok: Social Media Website 
+### Devhut: Social Media Website 
 - Tech stacks: ReactJS, Chakra UI, Redux (Context API), ExpressJS, MongoDB, REST API 
 - Website for developers to share their thoughts and follow other developers
 - I built it from scratch including authentication, and used JWT for authorization 
