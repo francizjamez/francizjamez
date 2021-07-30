@@ -19,6 +19,7 @@ Thanks for visiting my github, my name is Francis, I am a full-stack web develop
 - Here is the [Website](https://devhut.netlify.app/), you can login with username test and password test and have a look
   
 ### Everyone Answers (Firebase) 
+![Image of nextrooms](https://github.com/francizjamez/francizjamez/blob/main/everyone-answers.png)
 - Tech stacks: ReactJS, Firebase Authentication, FireStore Database
 - App created to help teachers get instant response from students in a live online class
 - Teacher can create a session, add students and can share a unique link with students
@@ -26,12 +27,15 @@ Thanks for visiting my github, my name is Francis, I am a full-stack web develop
 - Here is a [link](https://nextrooms.netlify.app/) to the teacher's dashboard for you to try it.
   
 ### Movies Website 
+![Image of movie landing page](https://github.com/francizjamez/francizjamez/blob/main/movie-landing-page.png)
+![Image of movie landing page](https://github.com/francizjamez/francizjamez/blob/main/movie.png)
 - Tech stacks: ReactJS, HTML and CSS Flexbox 
 - This is a website to browse and search popular movies and view posters and trailer videos
 - Implemented search using a 3rd Party REST API and used routing and pagination to load 10 movies at a time.
 - Visit the [website](https://gracious-swanson-ec0bda.netlify.app/) to see for yourself
 
 ### Memory Game 
+![Image of memory game](https://github.com/francizjamez/francizjamez/blob/main/memory-game.png)
 - Tech stacks: ReactJS, HTML and CSS Flexbox
 - Created a fun time-based memory game using ReactJS
 - Using multiple timers on the same page was a challenge 
