@@ -1,10 +1,5 @@
-
-“Intellectual growth should commence at birth and cease only at death.”
-
-― Albert Einstein
-
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+> “Intellectual growth should commence at birth and cease only at death.”
+> - Albert Einstein
 
 Thanks for visiting my profile, my name is Francis, I am a full-stack web developer, based out of Cagayan De Oro, Philippines. I am adept at Reactjs, node, mongodb, express collectively known as the MERN stack, but also can easily adapt to any tech.
 
